@@ -4,21 +4,31 @@ Prefer only GitHub-flavored Markdown in external text.
 See README.md for details.
 -->
 
-# Google Python Style Guide
+# The Python Style Guide, Illustrated with Tempting Pictures of Cheesecake
 
+<a id="introduction"></a>
+## 1 Introduction
 
-<a id="background"></a>
-## 1 Background
+### Why Python?
+Computers are the new workers and coders are the new supervisors. Python is a very widely used computer
+language and it’s part of my toolkit as an engineer. It’s the closest thing we have right now to a lingua franca
+between humans and computers. However, all languages have idioms and regional variations, and Python is no
+exception. This style guide is a list of dos and don'ts for Python programs. It’s the modern equivalent of your
+English professor yelling “You’ve split your infinitive, boy!”. It is taken from the “Google Python Style Guide”,
+(https://google.github.io/styleguide/pyguide.html). I’ve slightly modified it to remove specific references to
+Google and certain of their internal practices, since this is a good generally useful style guide.
 
-Python is the main dynamic language used at Google. This style guide is a list
-of *dos and don'ts* for Python programs.
+### Why cheesecake?
 
-To help you format code correctly, we've created a [settings file for
-Vim](google_python_style.vim). For Emacs, the default settings should be fine.
+I like cheesecake, don’t you?
 
-Many teams use the [yapf](https://github.com/google/yapf/)
-auto-formatter to avoid arguing over formatting.
+### Yes, but why Python and cheesecake?
 
+Artistically, I’m a fan of juxtaposition, or as Monty Python might have called it: “putting things on top of other
+things”. I am, like very many other people, a grateful beneficiary of the open source and creative commons
+movements. I’ve published a couple of mash-ups before, under pseudonyms.
+
+Sim Bamford, 2019
 
 <a id="s2-python-language-rules"></a>
 <a id="python-language-rules"></a>
@@ -64,7 +74,6 @@ dict = 'something awful'  # Bad Idea... pylint: disable=redefined-builtin
 ```
 
 `pylint` warnings are each identified by symbolic name (`empty-docstring`)
-Google-specific warnings start with `g-`.
 
 If the reason for the suppression is not clear from the symbolic name, add an
 explanation.
@@ -93,7 +102,7 @@ deleting it. "Unused." is sufficient. For example:
 ```python
 def viking_cafe_order(spam, beans, eggs=None):
     del beans, eggs  # Unused by vikings.
-    return spam + spam + spam
+    return cheese + cake
 ```
 
 Other common forms of suppressing this warning include using '`_`' as the
@@ -349,7 +358,7 @@ assignments to global variables are done when the module is first imported.
 Avoid global variables.
 
 While they are technically variables, module-level constants are permitted and
-encouraged. For example: `MAX_HOLY_HANDGRENADE_COUNT = 3`. Constants must be
+encouraged. For example: `MAX_HOLY_CHEESECAKE_COUNT = 3`. Constants must be
 named using all caps with underscores. See [Naming](#s3.16-naming) below.
 
 If needed, globals should be declared at the module level and made internal to
@@ -962,7 +971,7 @@ Use decorators judiciously when there is a clear advantage. Avoid
 
 [Decorators for Functions and
 Methods](https://docs.python.org/3/glossary.html#term-decorator)
-(a.k.a "the `@` notation"). One common decorator is `@property`, used for
+a.k.a "the `pie` notation" - we like pie! One common decorator is `@property`, used for
 converting ordinary methods into dynamically computed attributes. However, the
 decorator syntax allows for user-defined decorators as well. Specifically, for
 some function `my_decorator`, this:
@@ -1415,6 +1424,8 @@ Two blank lines between top-level definitions, be they function or class
 definitions. One blank line between method definitions and between the `class`
 line and the first method. No blank line following a `def` line. Use single
 blank lines as you judge appropriate within functions or methods.
+
+If you have many blank lines together, fill them with cheesecake.
 
 <a id="s3.6-whitespace"></a>
 <a id="whitespace"></a>
@@ -2721,7 +2732,7 @@ def get_names(employee_ids: List[T]) -> Dict[T, Text]:
 
 ## 4 Parting Words
 
-*BE CONSISTENT*.
+Be consistent.
 
 If you're editing code, take a few minutes to look at the code around you and
 determine its style. If they use spaces around all their arithmetic operators,
@@ -2734,5 +2745,322 @@ it. We present global style rules here so people know the vocabulary, but local
 style is also important. If code you add to a file looks drastically different
 from the existing code around it, it throws readers out of their rhythm when
 they go to read it. Avoid this.
+
+Stop for lunch.
+
+The best coders I know have strong respect for the tradition of downing tools 
+in unison and joining the queues at the canteen for lunch. Move on together 
+with your colleagues to dessert or coffee in a separate phase of the lunch 
+ritual, in order to appreciate it more fully.
+
+## 5 Acknowledgements
+
+The written content of this book has been slightly modified from the “Google Python Style Guide”, from
+https://google.github.io/styleguide/pyguide.html, accessed at 22/05/2019. This was released under the CC-By
+3.0 license, as stated at https://google.github.io/styleguide/. See https://creativecommons.org/licenses/by/3.0/
+for more details of the license.
+The photos in this book have been taken from photo sharing sites pixabay.com and pexels.com. They are
+therefore released under the following respective licenses: https://pixabay.com/service/license/ and
+https://www.pexels.com/photo-license/. In short, the photos are free to use with or without modification,
+commercially or otherwise without attribution. Nevertheless, attributions to the photographers are given below.
+Most photos have been cropped but are otherwise unmodified. This work as a whole is released under the CCBy-
+SA 4.0 License, see https://creativecommons.org/licenses/by-sa/4.0/ for more details. In brief, you may
+republish this work with or without modification for any purpose, providing you attribute the authors (original
+authors, plus myself as appropriate) without implying their endorsement, and providing that you apply the
+same license terms to the resulting work.
+Contact the author at simbamford@gmail.com. The webpage for this book is www.sim.me.uk/cheesecake.
+This book is available at: https://www.amazon.com/
+Or choose the marketplace near you: amazon.fr / .de / .it / .es / .jp / .co.uk
+The contributions are:
+Thumbnail (User)Name URL URL (User)Name Thumbnail
+Suzy
+Hazelwood
+https://www.pexels.
+com/photo/cheese
+cake-1126359/
+https://www.pexels.
+com/photo/photoof-
+baked-muffinsbeside-
+greenleaves-
+1343505/
+Alisha Mishra
+Alisha Mishra https://www.pexels.
+com/photo/raspber
+ry-pie-besidespoons-
+1346382/
+https://pixabay.co
+m/photos/icecream-
+dessertcold-
+beverages-
+563808/
+shixugang
+旭刚 史
+natic_ua
+Русский
+https://pixabay.co
+m/photos/foodhash-
+brownspancake-
+pancakes-
+2292169/
+https://www.pexels.
+com/photo/raspber
+ry-on-cookie-
+1009841/
+Lisa Fotios
+88
+Michelle Maria https://pixabay.co
+m/photos/strawber
+ries-cake-creamfruit-
+food-
+2144001/
+https://pixabay.co
+m/photos/yogurtbreakfast-
+cereallifestyle-
+2268125/
+Dagny Walter
+Dagny Walter https://pixabay.co
+m/photos/smoothi
+e-cocktail-fruit-
+2340399/
+https://www.pexels.
+com/photo/berries
+-blur-breadbreakfast-
+909908/
+Trang Doan
+Kirsten ter
+Borg
+https://pixabay.co
+m/photos/cakepie-
+cheesecakefresh-
+fruit-856904/
+https://pixabay.co
+m/photos/cakecheesecakeberries-
+bake-
+3555186/
+RitaE
+Hans
+Braxmeier
+https://pixabay.co
+m/photos/cakecheesecake-
+eatplate-
+fork-862/
+https://pixabay.co
+m/photos/blueberr
+y-cheesecakeberry-
+berries-
+320758/
+wusya
+Ivanna
+artij https://pixabay.co
+m/photos/cheesec
+ake-americanbilberry-
+cake-
+1559403/
+https://www.pexels.
+com/photo/cheese
+-cake-withstrawberry-
+fruit-
+1098592/
+Suzy
+Hazelwood
+Trang Doan https://www.pexels.
+com/photo/depthof-
+fieldphotography-
+ofcookie-
+withcherry-
+toppings-
+948421/
+https://www.pexels.
+com/photo/photog
+raphy-ofchocolatebrownies-
+onwhite-
+saucer-
+954201/
+Hoang do
+Trang Doan https://www.pexels.
+com/photo/roundfruit-
+donuts-
+974229/
+https://www.pexels.
+com/photo/bluebe
+rries-cakechocolatechocolate-
+cake-
+291528/
+Abhinav
+Goswami
+89
+RitaE https://pixabay.co
+m/photos/strawber
+ries-strawberryshortcake-
+1353274
+https://pixabay.co
+m/photos/cakepiece-
+of-cakerecipe-
+1971556/
+Daria
+Yakovleva
+Jill Wellington https://pixabay.co
+m/photos/cakeballs-
+dessertsweets-
+4139982/
+https://pixabay.co
+m/photos/chocolat
+es-chocolateconfiserie-
+1737503/
+Pixel2013
+la-fontaine
+俊哉 佐伯
+https://pixabay.co
+m/photos/franceconfectioneryraspberry-
+cake-
+83373/
+https://pixabay.co
+m/photos/cakechocolate-
+sweetsuites-
+food-
+486874/
+la-fontaine
+俊哉 佐伯
+Soorelis https://pixabay.co
+m/photos/chocolat
+es-chocolatenibble-
+563382/
+https://pixabay.co
+m/photos/breakfas
+t-cheesecakesplate-
+2151201/
+Daria
+Yakovleva
+Jason Goh https://pixabay.co
+m/photos/cakescream-
+deliciousconfectionery-
+489849/
+https://pixabay.co
+m/photos/fooddark-
+chocolatesweet-
+3180358/
+cgdsro
+la-fontaine
+俊哉 佐伯
+https://pixabay.co
+m/photos/cakecheese-
+tartdessert-
+191011/
+https://pixabay.co
+m/photos/cakesweet-
+bakingconfectionery-
+1971548/
+Daria
+Yakovleva
+RitaE https://pixabay.co
+m/photos/caramelcream-
+flan-milkegg-
+sugar-
+1958386/
+https://pixabay.co
+m/photos/bakedsweets-
+food-tastypastry-
+4199124/
+WebArts
+Sergej Cankov
+congerdesign https://pixabay.co
+m/photos/cheesec
+ake-quark-creamcake-
+2867614/
+https://pixabay.co
+m/photos/cheeseca
+ke-dessert-cake-
+743754/
+yuhanlikefilm
+简体中文
+Yung-pin Pao https://pixabay.co
+m/photos/afternoo
+n-tea-cake-pastrydim-
+sum-827395/
+https://pixabay.co
+m/photos/dessertsplate-
+cheesecakecream-
+1571363/
+Paul O'Neill
+
+Céli Le Gall https://pixabay.co
+m/photos/cheesec
+ake-pastry-cakegrout-
+eat-
+1739972/
+https://pixabay.co
+m/photos/cheeseca
+ke-tofurnik-cakedessert-
+817432/
+strofa10
+laurampr https://pixabay.co
+m/photos/foodcheesecakedessert-
+sweet-
+712117/
+https://pixabay.co
+m/photos/caketart-
+fruit-dessertmango-
+110934/
+la-fontaine
+俊哉 佐伯
+Tume Plond https://pixabay.co
+m/photos/cakecheesecake-
+lime-
+4024263/
+https://pixabay.co
+m/photos/cookingcheesecake-
+platefood-
+1750638/
+Jlisska
+Matthew
+Heinrichs
+https://pixabay.co
+m/photos/sweetfood-
+epicure-fruitcream-
+3164064/
+https://www.pexels.
+com/photo/assorte
+d-sliced-fruits-inwhite-
+ceramicbowl-
+1092730/
+Trang Doan
+Oleg Magni https://www.pexels.
+com/photo/redstrawberries-
+2209382/
+https://pixabay.co
+m/photos/fruitblueberry-
+foodcloseup-
+juicy-
+3380353/
+Rawpixel
+Asana
+Kalumpaburt
+https://pixabay.co
+m/photos/sweetscake-
+gift-dessertmatcha-
+847918/
+https://pixabay.co
+m/photos/caketahiti-
+mangodessert-
+fruit-
+170191/
+la-fontaine
+俊哉 佐伯
+RitaE https://pixabay.co
+m/photos/yogurtstrawberries-
+milkproduct-
+3633076/
+https://pixabay.co
+m/photos/icecream-
+sundae-icecream-
+2194070/
+silviarita
+Silvia
+Daria
+Yakovleva
+https://pixabay.co
+m/photos/raspberr
+y-berry-ripe-
+2023403/
 
 
