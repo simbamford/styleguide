@@ -2759,6 +2759,7 @@ The written content of this book has been slightly modified from the “Google P
 https://google.github.io/styleguide/pyguide.html, accessed at 22/05/2019. This was released under the CC-By
 3.0 license, as stated at https://google.github.io/styleguide/. See https://creativecommons.org/licenses/by/3.0/
 for more details of the license.
+
 The photos in this book have been taken from photo sharing sites pixabay.com and pexels.com. They are
 therefore released under the following respective licenses: https://pixabay.com/service/license/ and
 https://www.pexels.com/photo-license/. In short, the photos are free to use with or without modification,
@@ -2768,299 +2769,171 @@ SA 4.0 License, see https://creativecommons.org/licenses/by-sa/4.0/ for more det
 republish this work with or without modification for any purpose, providing you attribute the authors (original
 authors, plus myself as appropriate) without implying their endorsement, and providing that you apply the
 same license terms to the resulting work.
+
 Contact the author at simbamford@gmail.com. The webpage for this book is www.sim.me.uk/cheesecake.
 This book is available at: https://www.amazon.com/
+
 Or choose the marketplace near you: amazon.fr / .de / .it / .es / .jp / .co.uk
+
 The contributions are:
-Thumbnail (User)Name URL URL (User)Name Thumbnail
-Suzy
-Hazelwood
-https://www.pexels.
-com/photo/cheese
-cake-1126359/
-https://www.pexels.
-com/photo/photoof-
-baked-muffinsbeside-
-greenleaves-
-1343505/
+
+Suzy Hazelwood
+https://www.pexels.com/photo/cheesecake-1126359/
+
 Alisha Mishra
-Alisha Mishra https://www.pexels.
-com/photo/raspber
-ry-pie-besidespoons-
-1346382/
-https://pixabay.co
-m/photos/icecream-
-dessertcold-
-beverages-
-563808/
-shixugang
-旭刚 史
-natic_ua
-Русский
-https://pixabay.co
-m/photos/foodhash-
-brownspancake-
-pancakes-
-2292169/
-https://www.pexels.
-com/photo/raspber
-ry-on-cookie-
-1009841/
+https://www.pexels.com/photo/photoof-baked-muffinsbeside-greenleaves-1343505/
+
+Alisha Mishra 
+https://www.pexels.com/photo/raspberry-pie-besidespoons-1346382/
+
+shixugang 旭刚 史
+https://pixabay.com/photos/icecream-dessertcold-beverages-563808/
+
+natic_ua Русский
+https://pixabay.com/photos/foodhash-brownspancake-pancakes-2292169/
+
 Lisa Fotios
-88
-Michelle Maria https://pixabay.co
-m/photos/strawber
-ries-cake-creamfruit-
-food-
-2144001/
-https://pixabay.co
-m/photos/yogurtbreakfast-
-cereallifestyle-
-2268125/
+https://www.pexels.com/photo/raspberry-on-cookie-1009841/
+
+Michelle Maria 
+https://pixabay.com/photos/strawberries-cake-creamfruit-food-2144001/
+
 Dagny Walter
-Dagny Walter https://pixabay.co
-m/photos/smoothi
-e-cocktail-fruit-
-2340399/
-https://www.pexels.
-com/photo/berries
--blur-breadbreakfast-
-909908/
+https://pixabay.com/photos/yogurtbreakfast-cereallifestyle-2268125/
+
+Dagny Walter 
+https://pixabay.com/photos/smoothie-cocktail-fruit-2340399/
+
 Trang Doan
-Kirsten ter
-Borg
-https://pixabay.co
-m/photos/cakepie-
-cheesecakefresh-
-fruit-856904/
-https://pixabay.co
-m/photos/cakecheesecakeberries-
-bake-
-3555186/
+https://www.pexels.com/photo/berries-blur-breadbreakfast-909908/
+
+Kirsten ter Borg
+https://pixabay.com/photos/cakepie-cheesecakefresh-fruit-856904/
+
 RitaE
-Hans
-Braxmeier
-https://pixabay.co
-m/photos/cakecheesecake-
-eatplate-
-fork-862/
-https://pixabay.co
-m/photos/blueberr
-y-cheesecakeberry-
-berries-
-320758/
+https://pixabay.com/photos/cakecheesecakeberries-bake-3555186/
+
+Hans Braxmeier
+https://pixabay.com/photos/cakecheesecake-eatplate-fork-862/
+
 wusya
-Ivanna
-artij https://pixabay.co
-m/photos/cheesec
-ake-americanbilberry-
-cake-
-1559403/
-https://www.pexels.
-com/photo/cheese
--cake-withstrawberry-
-fruit-
-1098592/
-Suzy
-Hazelwood
-Trang Doan https://www.pexels.
-com/photo/depthof-
-fieldphotography-
-ofcookie-
-withcherry-
-toppings-
-948421/
-https://www.pexels.
-com/photo/photog
-raphy-ofchocolatebrownies-
-onwhite-
-saucer-
-954201/
+https://pixabay.com/photos/blueberry-cheesecakeberry-berries-320758/
+
+Ivanna artij 
+https://pixabay.com/photos/cheesecake-americanbilberry-cake-1559403/
+
+Suzy Hazelwood
+https://www.pexels.com/photo/cheese-cake-withstrawberry-fruit-1098592/
+
+Trang Doan 
+https://www.pexels.com/photo/depthof-fieldphotography-ofcookie-withcherry-toppings-948421/
+
 Hoang do
-Trang Doan https://www.pexels.
-com/photo/roundfruit-
-donuts-
-974229/
-https://www.pexels.
-com/photo/bluebe
-rries-cakechocolatechocolate-
-cake-
-291528/
-Abhinav
-Goswami
-89
-RitaE https://pixabay.co
-m/photos/strawber
-ries-strawberryshortcake-
-1353274
-https://pixabay.co
-m/photos/cakepiece-
-of-cakerecipe-
-1971556/
-Daria
-Yakovleva
-Jill Wellington https://pixabay.co
-m/photos/cakeballs-
-dessertsweets-
-4139982/
-https://pixabay.co
-m/photos/chocolat
-es-chocolateconfiserie-
-1737503/
+https://www.pexels.com/photo/photography-ofchocolatebrownies-onwhite-saucer-954201/
+
+Trang Doan 
+https://www.pexels.com/photo/roundfruit-donuts-974229/
+
+Abhinav Goswami
+https://www.pexels.com/photo/blueberries-cakechocolatechocolate-cake-291528/
+
+RitaE 
+https://pixabay.com/photos/strawberries-strawberryshortcake-1353274
+
+Daria Yakovleva
+https://pixabay.com/photos/cakepiece-of-cakerecipe-1971556/
+
+Jill Wellington 
+https://pixabay.com/photos/cakeballs-dessertsweets-4139982/
+
 Pixel2013
-la-fontaine
-俊哉 佐伯
-https://pixabay.co
-m/photos/franceconfectioneryraspberry-
-cake-
-83373/
-https://pixabay.co
-m/photos/cakechocolate-
-sweetsuites-
-food-
-486874/
-la-fontaine
-俊哉 佐伯
-Soorelis https://pixabay.co
-m/photos/chocolat
-es-chocolatenibble-
-563382/
-https://pixabay.co
-m/photos/breakfas
-t-cheesecakesplate-
-2151201/
-Daria
-Yakovleva
-Jason Goh https://pixabay.co
-m/photos/cakescream-
-deliciousconfectionery-
-489849/
-https://pixabay.co
-m/photos/fooddark-
-chocolatesweet-
-3180358/
+https://pixabay.com/photos/chocolates-chocolateconfiserie-1737503/
+
+la-fontaine 俊哉 佐伯
+https://pixabay.com/photos/franceconfectioneryraspberry-cake-83373/
+
+la-fontaine 俊哉 佐伯
+https://pixabay.com/photos/cakechocolate-sweetsuites-food-486874/
+
+Soorelis 
+https://pixabay.com/photos/chocolates-chocolatenibble-563382/
+
+Daria Yakovleva
+https://pixabay.com/photos/breakfast-cheesecakesplate-2151201/
+
+Jason Goh 
+https://pixabay.com/photos/cakescream-deliciousconfectionery-489849/
+
 cgdsro
-la-fontaine
-俊哉 佐伯
-https://pixabay.co
-m/photos/cakecheese-
-tartdessert-
-191011/
-https://pixabay.co
-m/photos/cakesweet-
-bakingconfectionery-
-1971548/
-Daria
-Yakovleva
-RitaE https://pixabay.co
-m/photos/caramelcream-
-flan-milkegg-
-sugar-
-1958386/
-https://pixabay.co
-m/photos/bakedsweets-
-food-tastypastry-
-4199124/
+https://pixabay.com/photos/fooddark-chocolatesweet-3180358/
+
+la-fontaine 俊哉 佐伯
+https://pixabay.com/photos/cakecheese-tartdessert-191011/
+
+Daria Yakovleva
+https://pixabay.com/photos/cakesweet-bakingconfectionery-1971548/
+
+RitaE 
+https://pixabay.com/photos/caramelcream-flan-milkegg-sugar-1958386/
+
 WebArts
 Sergej Cankov
-congerdesign https://pixabay.co
-m/photos/cheesec
-ake-quark-creamcake-
-2867614/
-https://pixabay.co
-m/photos/cheeseca
-ke-dessert-cake-
-743754/
+https://pixabay.com/photos/bakedsweets-food-tastypastry-4199124/
+
+congerdesign 
+https://pixabay.com/photos/cheesecake-quark-creamcake-2867614/
+
 yuhanlikefilm
 简体中文
-Yung-pin Pao https://pixabay.co
-m/photos/afternoo
-n-tea-cake-pastrydim-
-sum-827395/
-https://pixabay.co
-m/photos/dessertsplate-
-cheesecakecream-
-1571363/
+https://pixabay.com/photos/cheesecake-dessert-cake-743754/
+
+Yung-pin Pao 
+https://pixabay.com/photos/afternoon-tea-cake-pastrydim-sum-827395/
+
 Paul O'Neill
+https://pixabay.com/photos/dessertsplate-cheesecakecream-1571363/
 
-Céli Le Gall https://pixabay.co
-m/photos/cheesec
-ake-pastry-cakegrout-
-eat-
-1739972/
-https://pixabay.co
-m/photos/cheeseca
-ke-tofurnik-cakedessert-
-817432/
+Céli Le Gall 
+https://pixabay.com/photos/cheesecake-pastry-cakegrout-eat-1739972/
+
 strofa10
-laurampr https://pixabay.co
-m/photos/foodcheesecakedessert-
-sweet-
-712117/
-https://pixabay.co
-m/photos/caketart-
-fruit-dessertmango-
-110934/
-la-fontaine
-俊哉 佐伯
-Tume Plond https://pixabay.co
-m/photos/cakecheesecake-
-lime-
-4024263/
-https://pixabay.co
-m/photos/cookingcheesecake-
-platefood-
-1750638/
+https://pixabay.com/photos/cheesecake-tofurnik-cakedessert-817432/
+
+laurampr 
+https://pixabay.com/photos/foodcheesecakedessert-sweet-712117/
+
+la-fontaine 俊哉 佐伯
+https://pixabay.com/photos/caketart-fruit-dessertmango-110934/
+
+Tume Plond 
+https://pixabay.com/photos/cakecheesecake-lime-4024263/
+
 Jlisska
-Matthew
-Heinrichs
-https://pixabay.co
-m/photos/sweetfood-
-epicure-fruitcream-
-3164064/
-https://www.pexels.
-com/photo/assorte
-d-sliced-fruits-inwhite-
-ceramicbowl-
-1092730/
+https://pixabay.com/photos/cookingcheesecake-platefood-1750638/
+
+Matthew Heinrichs
+https://pixabay.com/photos/sweetfood-epicure-fruitcream-3164064/
+
 Trang Doan
-Oleg Magni https://www.pexels.
-com/photo/redstrawberries-
-2209382/
-https://pixabay.co
-m/photos/fruitblueberry-
-foodcloseup-
-juicy-
-3380353/
+https://www.pexels.com/photo/assorted-sliced-fruits-inwhite-ceramicbowl-1092730/
+
+Oleg Magni 
+https://www.pexels.com/photo/redstrawberries-2209382/
+
 Rawpixel
-Asana
-Kalumpaburt
-https://pixabay.co
-m/photos/sweetscake-
-gift-dessertmatcha-
-847918/
-https://pixabay.co
-m/photos/caketahiti-
-mangodessert-
-fruit-
-170191/
-la-fontaine
-俊哉 佐伯
-RitaE https://pixabay.co
-m/photos/yogurtstrawberries-
-milkproduct-
-3633076/
-https://pixabay.co
-m/photos/icecream-
-sundae-icecream-
-2194070/
-silviarita
-Silvia
+https://pixabay.com/photos/fruitblueberry-foodcloseup-juicy-3380353/
+
+Asana Kalumpaburt
+https://pixabay.com/photos/sweetscake-gift-dessertmatcha-847918/
+
+la-fontaine 俊哉 佐伯
+https://pixabay.com/photos/caketahiti-mangodessert-fruit-170191/
+
+RitaE 
+https://pixabay.com/photos/yogurtstrawberries-milkproduct-3633076/
+
+silviarita Silvia
+https://pixabay.com/photos/icecream-sundae-icecream-2194070/
+
 Daria
-Yakovleva
-https://pixabay.co
-m/photos/raspberr
-y-berry-ripe-
-2023403/
-
-
+Yakovleva https://pixabay.com/photos/raspberry-berry-ripe-2023403/
