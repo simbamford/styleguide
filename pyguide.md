@@ -2771,7 +2771,7 @@ authors, plus myself as appropriate) without implying their endorsement, and pro
 same license terms to the resulting work.
 
 Contact the author at simbamford@gmail.com. The webpage for this book is www.sim.me.uk/cheesecake.
-This book is available at: https://www.amazon.com/
+This book is available at: https://www.amazon.com/dp/1070343862
 
 Or choose the marketplace near you: amazon.fr / .de / .it / .es / .jp / .co.uk
 
